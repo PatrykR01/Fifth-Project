@@ -25,3 +25,4 @@ First of all, this project taught me a lot in @ keyframes, animations that I wan
 pseudoclasses like ::before and ::after. They are very important in modern CSS and SCSS. <br>
 Thanks that, now I have strong basics to develop my skills more further and discover more advance thing. <br>
 This showed me how much I have to learn and how much I already know. <br>
+<br>
