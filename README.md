@@ -27,3 +27,6 @@ pseudoclasses like ::before and ::after. They are very important in modern CSS a
 Thanks that, now I have strong basics to develop my skills more further and discover more advance thing. <br>
 This showed me how much I have to learn and how much I already know. <br>
 <br>
+<br>
+If You want find my new projects that thet will show on my profile, come to Repositories section on my profile. <br>
+More projects will be realese on december. 
