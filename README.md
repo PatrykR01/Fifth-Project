@@ -10,6 +10,7 @@ FIFTH PROJECT:<br>
 ![Zrzut ekranu (8)](https://user-images.githubusercontent.com/99299154/196011008-9e98a180-e6fc-4e3a-9547-168a690954ef.png)
 
 <br>
+
 3. Learned transition and how to use it properly.<br>
 4. I learned how to use @keyframes.<br>
 5. I learned clean code knowledge.<br>
@@ -19,6 +20,7 @@ FIFTH PROJECT:<br>
 ![Zrzut ekranu (8)](https://user-images.githubusercontent.com/99299154/196011026-d7f201c1-88fb-4957-8c99-de8fd1b75b53.png)
 
 <br>
+
 <br>
 SUMMARY -> Fifth Project <br>
 <br>
